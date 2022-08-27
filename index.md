@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-//Hello test 1
+Hello test 1
 
-//Hello test 2
+Hello test 2
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
