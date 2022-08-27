@@ -15,9 +15,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-aerrgath rtrh srh h
- rtrth 
-
 - Bulleted
 - List
 
