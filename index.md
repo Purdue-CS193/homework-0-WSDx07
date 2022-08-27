@@ -1,7 +1,7 @@
-### WSDx07's First CS193 Homework
+# WSDx07's First CS193 Homework
 
--The instructors
--My friends and I are in the same lecture session
+- The instructors
+- My friends and I are in the same lecture session
 
 
 ## Welcome to GitHub Pages
